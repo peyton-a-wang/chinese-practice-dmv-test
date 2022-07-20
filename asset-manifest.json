@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/chinese-practice-permit/static/css/main.f14e6180.css",
-    "main.js": "/chinese-practice-permit/static/js/main.8f560e51.js",
-    "static/js/787.e58d2d50.chunk.js": "/chinese-practice-permit/static/js/787.e58d2d50.chunk.js",
-    "index.html": "/chinese-practice-permit/index.html",
-    "main.f14e6180.css.map": "/chinese-practice-permit/static/css/main.f14e6180.css.map",
-    "main.8f560e51.js.map": "/chinese-practice-permit/static/js/main.8f560e51.js.map",
-    "787.e58d2d50.chunk.js.map": "/chinese-practice-permit/static/js/787.e58d2d50.chunk.js.map"
+    "main.css": "/chinese-practice-dmv-test/static/css/main.c6a4cdf6.css",
+    "main.js": "/chinese-practice-dmv-test/static/js/main.1042e83b.js",
+    "index.html": "/chinese-practice-dmv-test/index.html",
+    "main.c6a4cdf6.css.map": "/chinese-practice-dmv-test/static/css/main.c6a4cdf6.css.map",
+    "main.1042e83b.js.map": "/chinese-practice-dmv-test/static/js/main.1042e83b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f14e6180.css",
-    "static/js/main.8f560e51.js"
+    "static/css/main.c6a4cdf6.css",
+    "static/js/main.1042e83b.js"
   ]
 }
